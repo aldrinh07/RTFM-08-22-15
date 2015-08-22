@@ -1,2 +1,4 @@
-# RTFM-08-22-15
 RTFM
+====
+
+Follow the screencast at https://www.youtube.com/watch?v=bjcVzK8VDvA
